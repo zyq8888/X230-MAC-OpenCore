@@ -8,7 +8,7 @@
     <a href="https://www.apple.com/macos/monterey/">
         <img src="https://img.shields.io/badge/Monterey-12.3.1-brown"></a>
         <a href="https://www.apple.com/macos/ventura/">
-        <img src="https://img.shields.io/badge/ventura-13-purple.svg"></a>
+        <img src="https://img.shields.io/badge/ventura-13.2-purple.svg"></a>
     <a href="https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X230.pdf">
         <img src="https://img.shields.io/badge/ThinkPad-X230-blue"/></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">

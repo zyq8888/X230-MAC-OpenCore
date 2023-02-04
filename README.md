@@ -1,4 +1,4 @@
-<h1 align="center">Hackintosh the Thinkpad X230</h1>
+<h1 align="center">我的Thinkpad X230 黑苹果EFI</h1>
 
 <p align="center">
     <a href="https://www.apple.com/">
@@ -17,7 +17,7 @@
 
 
 <details>
-<summary><strong> X230配置 </strong></summary>
+<summary><strong> 我的X230配置 </strong></summary>
 <br>
 
 | Category  | THINKPAD X230            |

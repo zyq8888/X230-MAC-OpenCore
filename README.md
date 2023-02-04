@@ -61,4 +61,4 @@
 </details>
 
 
-关于此EFI的使用说明 本人是缝合怪 所以对可能出现的BUG 没有修复能力 但本人是使用的ventura-13.2 然后使用[OpenCore-Legacy-Patcher]([https://github.com/n4ru/1vyrain/](https://github.com/dortania/OpenCore-Legacy-Patcher))修补显卡4m问题
+关于此EFI的使用说明 本人是缝合怪 所以对可能出现的BUG 没有修复能力 但本人是使用的ventura-13.2 然后使用[OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)修补显卡4m问题

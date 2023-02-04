@@ -30,9 +30,11 @@
 - 这个 [X230所有官方配置表](https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X230.pdf) 可能对你有一点帮助.
 
 </details>
-> ## BIOS Settings
 
-- At the minimum, these BIOS settings must be made to install and run macOS without any problems:
+<details>
+<summary><strong>关于黑苹果X230 BIOS 设置 </strong></summary>
+<br>
+- 至少，必须进行这些BIOS设置才能安装和运行macOS而不会出现任何问题:
 
 | Main Menu | Sub 1         | Sub 2         | Sub 3        | Setting       |
 | --------- | ------------- | ------------- |------------- | ------------- |
@@ -49,16 +51,11 @@
 |           |               | CSM Support   |              | `No`          |
 |           | Boot Mode     |               |              | `Quick`       |
 
-> ## Modding the BIOS
-
-- A simple method to install a modified BIOS is available [here](https://github.com/n4ru/1vyrain/) (no external programmer required).
-
-> ## Modded BIOS Settings
-
-- The following are further optimization settings that can be figured once your BIOS is modded.
-
-> ## These settings are universally recommended optimizations for your hackintosh
-
+可以使用一种简单的方法来安装经过修改的BIOS[外部传送](https://github.com/n4ru/1vyrain/)（无需外部编程器）。
+修改过BIOS 可以解网卡白名单 以及开启一些功能
+    
+以下是修改BIOS后可以配置的进一步优化设置。
 | Main Menu | Sub 1 | Sub 2 | Sub 3 | Setting |
 |-----------|-------|------ |------ |-------- |
 | Advanced  | System Agent (SA) configuration | Graphics Configuration | DVMT Pre-Allocated | `128MB` |
+</details>

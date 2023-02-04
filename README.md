@@ -15,7 +15,7 @@
 
 
 <details>
-<summary><strong> HARDWARE </strong></summary>
+<summary><strong> X230配置 </strong></summary>
 <br>
 
 | Category  | THINKPAD X230            |
@@ -23,7 +23,7 @@
 | CPU       | Intel Core i5-3320M      |
 | SSD       | Samsung 870 Evo 250GB    |
 | Display   | 12.5' IPS HD (1366x1768) |
-| WiFi & BT | Intel Wireless-AC 7260   |
+| WiFi & BT | BCM94360HMB              |
 
 - Refer to [X230-Platform_Specifications](https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X230.pdf) for possible stock ThinkPad X230 configurations.
 
